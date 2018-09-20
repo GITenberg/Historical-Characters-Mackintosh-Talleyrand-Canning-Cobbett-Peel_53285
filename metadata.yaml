@@ -1,5 +1,8 @@
 _repo: Historical-Characters-Mackintosh-Talleyrand-Canning-Cobbett-Peel_53285
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 53285-h/images/cover.jpg
 creator:
   author:
     agent_name: Dalling and Bulwer, Henry Lytton Bulwer, Baron
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '44185'
     url: http://www.gutenberg.org/2009/agents/44185
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53285#Historical-Characters-Mackintosh-Talleyrand-Canning-Cobbett-Peel
 gutenberg_issued: '2016-10-15'
 gutenberg_type: Text
 identifiers:
