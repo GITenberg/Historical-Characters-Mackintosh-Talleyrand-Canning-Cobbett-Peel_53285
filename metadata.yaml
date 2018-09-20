@@ -1,0 +1,35 @@
+_repo: Historical-Characters-Mackintosh-Talleyrand-Canning-Cobbett-Peel_53285
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dalling and Bulwer, Henry Lytton Bulwer, Baron
+    aliases:
+    - Bulwer, W. H. L. E. (William Henry Lytton Earle)
+    - Bulwer, H. Lytton (Henry Lytton)
+    - Bulwer, Henry Lytton, Sir
+    - Henry, Lord Dalling and Bulwer
+    - Dalling and Bulwer, William Henry Lytton Earle Bulwer, Baron
+    - Bulwer, Henry Lytton, Baron Dalling and Bulwer
+    birthdate: 1801
+    deathdate: 1872
+    gutenberg_agent_id: '44185'
+    url: http://www.gutenberg.org/2009/agents/44185
+description: ''
+gutenberg_issued: '2016-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53285'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peel, Robert, 1788-1850'
+- !lcsh 'Mackintosh, James, Sir, 1765-1832'
+- !lcsh 'Canning, George, 1770-1827'
+- !lcsh 'Talleyrand-Périgord, Charles Maurice de, prince de Bénévent, 1754-1838'
+- !lcc 'CT'
+- !lcsh 'Cobbett, William 1763-1835'
+- GITenberg
+title: 'Historical Characters: Mackintosh, Talleyrand, Canning, Cobbett, Peel'
+url: http://www.gutenberg.org/ebooks/53285
